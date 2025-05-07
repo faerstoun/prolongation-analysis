@@ -24,7 +24,7 @@
 - Итоговые коэффициенты представлены в файле: [`prolongation_summary`](report/)
 - Итоговый отчёт представлен в файле: [`report_prolongation_summary`](report/)
 
-## Технологии
+## Инструменты
 
 - Python (pandas, matplotlib)
 - Jupyter Notebook
